@@ -1,14 +1,10 @@
-# Personalization
+# IEOR4157 Personalization: Theory and Application
 
-**Group members**
-  - Zihui Zhou, zz2694@columbia.edu, zz2694 
-  - Han Wang, hw2761@columbia.edu,  hw2761
-  - Jing You, jy3035@columbia.edu, jy3035
-  - Yi Ping Tseng, yt2690@columbia.edu,  yt2690
+**The repository contains the in-class assignments of Personalization (Recommender System)**
 
 **Repository contents**
   - “README” file 
-  - “REQUIREMENTS” file
   - “ml-20ml” dataset repository
-  - “Project1_MovieLens.ipynb” project in Jupyter notebook
-
+  - “0_HW#1” first homework
+  - “1_Project” the first project
+  - “2_Final” the final project
