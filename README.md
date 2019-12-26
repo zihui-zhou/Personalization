@@ -8,3 +8,4 @@
   - “0_HW#1” first homework
   - “1_Project” the first project
   - “2_Final” the final project
+  - “project-2-final-team-up-master” the final project_final version
